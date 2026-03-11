@@ -1,83 +1,83 @@
 # Kids Learning & Quiz Application 🎓🎮
 
 ## 📌 Project Overview
-An interactive educational application designed for children to learn and take quizzes in a fun, engaging way. This project focuses on building a **Graphical User Interface (GUI)** using Python's `Tkinter` and managing image assets with the `Pillow` library.
+An interactive educational application designed for children to learn and take quizzes in a fun, engaging way using Python's `Tkinter`.
 
 ---
 
-## 📸 Step-by-Step System Walkthrough (Code & UI)
+## 📸 Step-by-Step System Walkthrough
 
-### 1️⃣ Application Setup & Main Window
-| Slide 3: Initialization | Slide 4: Image Handling |
+### 🛠 System Development & UI Design
+
+| CREATING A MAIN WINDOW AND ADDING AN IMAGE | ADDING A TEXT BUTTON USING TKINTER |
 |---|---|
 | ![Slide 3](image1.png) | ![Slide 4](image2.png) |
-*Code: Creating the main Tkinter window and setting up the initial background and geometry.*
+| **Slide 3** | **Slide 4** |
 
-### 2️⃣ UI Design & Widgets
-| Slide 5: Labels | Slide 6: Layout Management |
+| CREATING A LABEL WITH CUSTOM FONT AND PADDING | DEFINING A CUSTOM FUNCTION |
 |---|---|
 | ![Slide 5](image3.png) | ![Slide 6](image4.png) |
+| **Slide 7** | **Slide 8** |
 
-| Slide 7: Buttons Styling | Slide 8: Positioning |
+| POSITIONING AN IMAGE WITHIN THE WINDOW | CREATING A NEW WINDOW WITH CUSTOM SETTINGS |
 |---|---|
 | ![Slide 7](image5.png) | ![Slide 8](image6.png) |
+| **Slide 7** | **Slide 8** |
 
-### 3️⃣ Core Logic & Functions
-| Slide 9: Define Functions | Slide 10: Event Triggers |
+| CREATING A TITLE LABEL IN THE NEW WINDOW | ADDING AN IMAGE TO THE SECOND WINDOW |
 |---|---|
 | ![Slide 9](image7.png) | ![Slide 10](image8.png) |
-*(Note: Slide 11/Image 11 was skipped and continued from Image 12).*
+| **Slide 9** | **Slide 10** |
 
-### 4️⃣ Quiz Modules Implementation
-| Slide 12: Question Array | Slide 13: Entry Widgets |
+*(Note: Slide 11 was skipped and the sequence continues from Image 12)*
+
+| DEFINING THE SHOW_QUIZ_WINDOW FUNCTION | SETTING UP THE QUIZ WINDOW |
 |---|---|
 | ![Slide 12](image9.png) | ![Slide 13](image10.png) |
+| **Slide 12** | **Slide 13** |
 
-| Slide 14: Processing Answers | Slide 15: Scoring Logic |
+| CREATING A LIST OF QUESTION DICTIONARIES | ADDING THE QUESTION TEXT TO THE UI |
 |---|---|
 | ![Slide 14](image12.png) | ![Slide 15](image13.png) |
+| **Slide 14** | **Slide 15** |
 
-### 5️⃣ GUI Design Refinement
-| Slide 16 | Slide 17 | Slide 18 |
+### 💻 Code Implementation (Slides 16 - 21)
+| [Image 14] | [Image 15] | [Image 16] |
 |---|---|---|
 | ![Slide 16](image14.png) | ![Slide 17](image15.png) | ![Slide 18](image16.png) |
 
-| Slide 19 | Slide 20 | Slide 21 |
+| [Image 17] | [Image 18] | [Image 19] |
 |---|---|---|
 | ![Slide 19](image17.png) | ![Slide 20](image18.png) | ![Slide 21](image19.png) |
 
-### 6️⃣ Testing & Results
-| Slide 22: Display Score | Slide 23: Purple Text Logic |
+### 📊 Results & Score Calculation
+| [Image 20] | [Image 21] |
 |---|---|
 | ![Slide 22](image20.png) | ![Slide 23](image21.png) |
+| **Slide 22** | **Slide 23** |
 
-| Slide 24: Correct Answer Feedback | Slide 25: Summary Screen |
+| [Image 22] | [Image 23] |
 |---|---|
 | ![Slide 24](image22.png) | ![Slide 25](image23.png) |
+| **Slide 24** | **Slide 25** |
 
-### 7️⃣ Performance & Conclusion
-| Slide 26: Performance Tracking | Slide 27: Future Improvements |
+| [Image 24] | [Image 25] |
 |---|---|
 | ![Slide 26](image24.png) | ![Slide 27](image25.png) |
+| **Slide 26** | **Slide 27** |
 
-*(Last image in sequence: image26 is used to document the final output).*
-| Final Output |
+| [Image 26] |
 |---|
-| ![Final](image26.png) |
+| ![Final Output](image26.png) |
 
 ---
-
-## 🛠 Technical Implementation
-* **GUI Framework:** Tkinter (Python)
-* **Image Management:** Pillow (PIL)
-* **Programming Concepts:** Event-Driven Programming, Logical Arrays, and Scoring Algorithms.
 
 ## 👥 Team & Contributions
 *Developed by: Alanoud Suad, Amal Abdullah, Alanoud Sharif, Waad Saud, and Shehana Khaled.*
 
 **My Key Contributions:**
 * Implemented the **scoring system** using conditional logic.
-* Managed **GUI layouts** and widget positioning for a child-friendly interface.
+* Managed **GUI layouts** and widget positioning.
 * Documented the technical workflow and code structure.
 
 ---
